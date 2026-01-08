@@ -12,3 +12,7 @@ venv/
 
 # Environment variables (contains sensitive credentials)
 .env
+
+# Google Calendar credentials (sensitive)
+calendar_credentials.json
+calendar.json
