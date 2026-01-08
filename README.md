@@ -46,13 +46,13 @@ SF_DOMAIN=login  # or 'test' for sandbox
 ### 3. Run the Server
 
 ```bash
-python server.py
+python main.py
 ```
 
 ### 4. Test with MCP Inspector
 
 ```bash
-npx @modelcontextprotocol/inspector python server.py
+npx @modelcontextprotocol/inspector python main.py
 ```
 
 ## Available Tools
