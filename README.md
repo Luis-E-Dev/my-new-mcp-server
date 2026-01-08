@@ -7,6 +7,7 @@ A simple Model Context Protocol (MCP) server that provides AI assistants with to
 - ✅ Get Account by ID
 - ✅ Search Accounts by name
 - ✅ Get recent Opportunities
+- ✅ Schedule events in Google Calendar
 
 ## Setup
 
