@@ -1,3 +1,5 @@
+[![MseeP.ai Security Assessment Badge](https://mseep.net/pr/luis-e-dev-my-new-mcp-server-badge.png)](https://mseep.ai/app/luis-e-dev-my-new-mcp-server)
+
 # Salesforce Basic MCP Server
 
 A simple Model Context Protocol (MCP) server that provides AI assistants with tools to query Salesforce data.
